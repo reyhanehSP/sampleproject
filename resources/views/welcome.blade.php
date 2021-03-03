@@ -41,13 +41,13 @@
                 top: 18px;
             }
 
-            .content {
-                text-align: center;
-            }
+            /*.content {*/
+                /*text-align: center;*/
+            /*}*/
 
-            .title {
-                font-size: 84px;
-            }
+            /*.title {*/
+                /*font-size: 84px;*/
+            /*}*/
 
             /*.links > a {*/
                 /*color: #636b6f;*/
