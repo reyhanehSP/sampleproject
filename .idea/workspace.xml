@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb0a64e9-411e-4a43-9023-66e8ec638699" name="Default Changelist" comment="" />
+    <list default="true" id="bb0a64e9-411e-4a43-9023-66e8ec638699" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/bootstrap/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/composer.phar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/database/factories/ModelFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/resources/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/resources/assets/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/resources/assets/js/components/Example.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/resources/assets/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/resources/assets/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/webpack.mix.js" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +116,9 @@
       </usages-collector>
     </session>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -40,7 +127,7 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/untitled/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -131,11 +218,6 @@
               <item name="reyhanehsun" type="b2602c69:ProjectViewProjectNode" />
               <item name="reyhanehsun" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="reyhanehsun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reyhanehsun" type="462c0819:PsiDirectoryNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -175,12 +257,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1475000" />
+    <option name="totallyTimeSpent" value="2061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -194,7 +276,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32884097" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
